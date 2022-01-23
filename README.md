@@ -1,16 +1,13 @@
-#Todo-list made in React
-Simple React application with axios of a "to-do list"
+# Todo-list made with React
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple "to-do list" application with axios and react-router-dom on react. Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm i`
-Install depedencies of this project
+Installs depedencies of this project
 
 ### `npm start`
 
